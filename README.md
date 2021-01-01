@@ -13,3 +13,4 @@ Linux
 我也许是第一个搞Linux打包的人，我不会集成镜像，请在搞完后自行安装，同样也用Clonezila（再生龙）搞
 
 我的资源绝对无毒无流氓！
+暂存连接https://ypaperdrive-my.sharepoint.com/:u:/g/personal/hoo51ver_ksu_edu_bi/EQre7zb4L_FOuyIoRSSzhxoBTFi-9UbWuIvBHnvtrbb1vQ?e=DEVSLk
