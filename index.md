@@ -1,6 +1,3 @@
----
-layout: default
----
 
 杰克的资源分享
 
