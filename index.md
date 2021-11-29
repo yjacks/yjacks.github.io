@@ -3,7 +3,7 @@
 ## 说明:
 # 本站
 * ### [杰克的资源分享](/sou.md)
-* 
+
 # 视频
 * ### [bilibili](https://www.bilibili.com)
 * ### [acfun](https://acfun.cn)
