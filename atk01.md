@@ -18,7 +18,8 @@ tcl自带
 
 ### 代码:
 
-```package main
+```
+package main
 
 import (
 	"github.com/visualfc/atk/tk"
