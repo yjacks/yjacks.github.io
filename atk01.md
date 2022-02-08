@@ -18,7 +18,7 @@ tcl自带
 
 ### 代码:
 
-`package main
+```package main
 
 import (
 	"github.com/visualfc/atk/tk"
@@ -41,7 +41,7 @@ func main() {
 		mw.ShowNormal()
 	})
 }
-`
+```
 ### 解析
 `tk.Window` 指向一个基础框架
 `tk.RootWindow`创建一个基础窗口
