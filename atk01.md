@@ -45,8 +45,13 @@ func main() {
 ```
 ### 解析
 `tk.Window` 指向一个基础框架
+
 `tk.RootWindow`创建一个基础窗口
+
 `mw.ResizeN`定义窗口大小
+
 `tk.Mainloop`主循环
+
 `mw.setTitle`设置一个标题
+
 `mw.ShowNormal`显示窗口
