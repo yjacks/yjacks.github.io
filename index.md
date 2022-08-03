@@ -7,4 +7,4 @@
 
 ### [go atk教程02](/ATK/atk02.html)
 
-### [傑克許可證](/others/JL.md)
+### [傑克許可證](/Others/JL.md)
