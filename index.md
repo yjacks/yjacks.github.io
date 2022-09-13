@@ -7,7 +7,3 @@
 ### [go atk教程02](./ATK/atk02.html)
 
 ### [傑克許可證](./Others/JL.md)
-
-###### BGM: 群星-北京欢迎你
-
-<audio src="/assets/BGM/Peking_Welecome_You.mp3" type="audio/mpeg" autoplay loop></audio>
