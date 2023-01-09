@@ -4,6 +4,8 @@
 
 ### [go atk教程02](./ATK/atk02.html)
 
+### [Arch install](./archinstall.html)
+
 ##### 几个友链
 
 [Tibrella's blog](http://pinghigh.github.io/)
