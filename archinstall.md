@@ -35,7 +35,7 @@ Linux 作为内核的系统分支。
 
 ### 下载、校验及刻录安装映像
 
-* 本教程假定你使用另一台电脑，或使用将要安装系统的电脑上原有的系统完成本步骤。 *
+*本教程假定你使用另一台电脑，或使用将要安装系统的电脑上原有的系统完成本步骤。*
 
 #### 下载
  
@@ -43,7 +43,7 @@ Linux 作为内核的系统分支。
 
 ##### BT 下载
 
-访问 (官网下载页)[https://archlinux.org/download/]，找到“BitTorrect Download (recommanded)”字样。
+访问 [官网下载页](https://archlinux.org/download/)，找到“BitTorrect Download (recommanded)”字样。
 
 下面有两个超链接，选择“Torrent for xxxx.xx.xx”（日期，格式为年 . 月 . 日，意思是安装映像的发布时间）并下载。
 
@@ -51,7 +51,7 @@ Linux 作为内核的系统分支。
 
 ##### Http 下载
 
-访问 (官网下载页)[https://archlinux.org/download/]，找到“HTTP Direct Downloads”下的“China”（或者你所在的国家）（如果你所在的国家没有镜像，请使用临近国家的镜像。如，如果你在朝鲜，请使用韩国、中国或俄罗斯的镜像）。
+访问 [官网下载页](https://archlinux.org/download/)，找到“HTTP Direct Downloads”下的“China”（或者你所在的国家）（如果你所在的国家没有镜像，请使用临近国家的镜像。如，如果你在朝鲜，请使用韩国、中国或俄罗斯的镜像）。
 
 在下面的镜像中随意选择一个点入，你应该会看到一个树状结构，请选择正数第二个文件（archlinux-xxxx.xx.xx-x86_64.iso）来下载它。
 
