@@ -4,9 +4,9 @@
 
 务必确认你有折腾 Arch 的欲望，否则半途而退很正常。
 
-本文以FDL1.3 and newer发布。
+本文以 FDL1.3 and newer 协议发布。
 
-本人反对 ArchlinuxStudio 的政治观点，但是他们的文章非常值得一读。
+本人不赞同 ArchlinuxStudio 的部分观点，但是他们的文章非常值得一读。
 
 本教程假定你使用一台拥有显卡及显示屏，并且你在前方操作的电脑。远程安装不在本教程范围内。
 
@@ -16,19 +16,19 @@
 
 基本系统：可以运行的系统，仅携带基本软件。
 
-软件包：被打包的软件。使用 Pacman 包管的系统下，这种文件拓展名多为 .pkg.tar.xx (现在通行的为.pkg.tar.zst，也有少部分使用.pacman拓展名）。
+软件包：被打包的软件。使用 Pacman 软件包管理器的系统下，这种文件拓展名多为 `.pkg.tar.xx` (现在通行的为 `.pkg.tar.zst`，也有少部分使用 `.pacman/.xz` 拓展名）。
 
-包管：全称软件包管理器，系统中用于管理软件包的软件。是各个发行版的主要差别之一。Arch 使用 Pacman作为包管。
-s
+包管：全称软件包管理器，系统中用于管理软件包的软件。是各个发行版的主要差别之一。Arch 使用 Pacman 作为包管。
+
 发行版：在此处指 Linux 发行版。是各个使用
 Linux 作为内核的系统分支。
 
 ### 基本系统运行所需硬件
 
 - amd64 架构CPU
-- 足够运行一个基本系统的内存（600Mib 左右）
+- 足够运行一个基本系统的内存（600MiB 左右）
 - 支持“文本模式”输出的显卡（八十年代后的显卡基本都支持）(缺失显卡的称为“无头系统”，不在本教程范围内“）
-- 至少 2Gib 的硬盘空间，用来存放基本系统
+- 至少 2GiB 的硬盘空间，用来存放基本系统
 - 最基本的外设（键盘、 显示屏）
 
 ## 安装开始
@@ -43,11 +43,11 @@ Linux 作为内核的系统分支。
 
 ##### BT 下载
 
-访问 [官网下载页](https://archlinux.org/download/)，找到“BitTorrect Download (recommanded)”字样。
+访问 [官网下载页](https://archlinux.org/download/)，找到“BitTorrent Download (recommended)”字样。
 
 下面有两个超链接，选择“Torrent for xxxx.xx.xx”（日期，格式为年 . 月 . 日，意思是安装映像的发布时间）并下载。
 
-打开任何一个 BitTorrect 下载软件（如 FDM、QBitTorrect、uBitTorrect等）（迅雷也可使用，但不推荐），用他们打开下载下来的文件，等待下载完成。
+打开任何一个 BT 下载软件（如 BitComet、Transmission、QBitTorrent 等）（Aria2/Motrix、FDM稍慢）（尽量不要使用迅雷，因为大陆纯 BT 网络可以支持该镜像满速下载），用他们打开下载下来的文件，等待下载完成。
 
 ##### Http 下载
 
