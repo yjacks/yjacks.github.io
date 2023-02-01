@@ -1,8 +1,10 @@
 ## yjacks 的博客
 
-### [go atk教程01](./ATK/atk01.html)
+### [go atk 教程 01](./ATK/atk01.html)
 
-### [go atk教程02](./ATK/atk02.html)
+### [go atk 教程 02](./ATK/atk02.html)
+
+### [go atk 大佬总结文档](./ATK/atk02.html)
 
 ### [Arch install](./archinstall.html)
 
