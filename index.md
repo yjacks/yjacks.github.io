@@ -4,7 +4,7 @@
 
 ### [go atk 教程 02](./ATK/atk02.html)
 
-### [go atk 大佬总结文档](./ATK/atk02.html)
+### [go atk 大佬总结文档](./ATK/atk.html)
 
 ### [Arch install](./archinstall.html)
 
