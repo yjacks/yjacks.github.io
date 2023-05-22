@@ -8,6 +8,8 @@
 
 ### [Arch install](./archinstall.html)
 
+### [阅《我反对》及资源分享](./I_REFUSE.html)
+
 ##### 几个友链
 
 [Tibrella's blog](http://pinghigh.github.io/)
