@@ -10,4 +10,4 @@
 
 ##### 几个友链
 
-###### [Tibrella 的博客](http://pinghigh.top)——我十分敬佩的一位 oier
+###### [Tibrella 的博客](https://tibrella.top/)——我十分敬佩的一位 oier
