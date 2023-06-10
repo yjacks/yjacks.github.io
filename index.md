@@ -1,15 +1,13 @@
-## yjacks 的博客
+# yjacks 的博客
 
-### [go atk 教程 01](./ATK/atk01.html)
+## 读后感
 
-### [go atk 教程 02](./ATK/atk02.html)
+###### [阅《我反对》及资源分享](./irefuse.html)
 
-### [go atk 大佬总结文档](./ATK/atk.html)
+## 其他
 
-### [Arch install](./archinstall.html)
-
-### [阅《我反对》及资源分享](./I_REFUSE.html)
+###### [go atk 大佬总结文档](./atk.html)
 
 ##### 几个友链
 
-[Tibrella's blog](http://pinghigh.github.io/)
+###### [Tibrella 的博客](http://pinghigh.top)——我十分敬佩的一位 oier
