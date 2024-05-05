@@ -13,14 +13,14 @@
     {% include head-custom.html %}
   </head>
   <body>
-
+      li.center {text-align:center;}
       <header>
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
       <div id="banner">
-        <li><a href="/index.html" class="button">回主页</a></li>
+        <li class="center"><a href="/index.html" class="button">回主页</a></li>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
